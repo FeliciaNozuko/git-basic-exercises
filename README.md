@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Hello
 
 To0 You my friend
 
-random txt
+fixed conflict i think
+=======
+
+>>>>>>> history
